@@ -1,0 +1,2 @@
+shift() -> Remove the first element from array
+unshift("something") -> Add element to the beginning of an array
