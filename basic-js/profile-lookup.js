@@ -7,7 +7,7 @@ const contacts = [
     likes: ["Pizza", "Coding", "Brownie Points"],
   },
   {
-    firstName: "Harry",
+    firstName: "Ron",
     lastName: "Potter",
     number: "0994372684",
     likes: ["Hogwarts", "Magic", "Hagrid"],
